@@ -5,10 +5,6 @@
 -- Supervised by: Dr. Hamed Al Talhouni
 --
 -- Team Members:
---   Abdelrahman Baha Al-Musa
---   Rama Abdalwahab Al-Qaramsah
---   Razan Amer Shakor
---   Sadeen Raed Al-Musadeen
 --   Ahmad Tahseen Ali
 -- ============================================================================
 
